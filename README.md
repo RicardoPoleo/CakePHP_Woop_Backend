@@ -1,21 +1,25 @@
-CakePHP
+Woop Backend/APIs
 =======
-
 [![CakePHP](http://cakephp.org/img/cake-logo.png)](http://www.cakephp.org)
+----------------------------
+El siguiente es un codigo desarrollado para un empresa de Panana para la cual me encuentro trabajando en la actualidad. 
+Sirve como backend para la aplicacion de clasificacion y red social "Woop". Se encuentra desarrollado en PHP, usando
+un patron de desarrollo MVC en conjunto con el framework CakePhp.
 
-CakePHP is a rapid development framework for PHP which uses commonly known design patterns like Active Record, Association Data Mapping, Front Controller and MVC.
-Our primary goal is to provide a structured framework that enables PHP users at all levels to rapidly develop robust web applications, without any loss to flexibility.
+Si han utilizado este framework con anterioridad, no requieren mayor induccion al codigo en lo que respecta a la
+estructura de las carpertas. Si, de lo contrario, no han trabajado con el, o aun no se sienten comodos con el,
+las carpetas principales son las siguientes:
 
-Some Handy Links
-----------------
+Las principales carpetas son las siguientes:
+--------------------------------------------
+*[Controladores](https://github.com/RicardoPoleo/git-github.com-RicardoPoleo-WoopBackend/tree/master/app/Controller)
+*[Modelos](https://github.com/RicardoPoleo/git-github.com-RicardoPoleo-WoopBackend/tree/master/app/Model)
+*[Vistas](https://github.com/RicardoPoleo/git-github.com-RicardoPoleo-WoopBackend/tree/master/app/View)
 
-[CakePHP](http://www.cakephp.org) - The rapid development PHP framework
 
-[CookBook](http://book.cakephp.org) - THE CakePHP user documentation; start learning here!
+Actualmente esta aplicacion se encuentra en desarrollo
+------------------------------------------------------
 
-[API](http://api.cakephp.org) - A reference to CakePHP's classes
-
-[Plugins](http://plugins.cakephp.org/) - A repository of extensions to the framework
 
 [The Bakery](http://bakery.cakephp.org) - Tips, tutorials and articles
 
